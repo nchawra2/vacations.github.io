@@ -3,16 +3,16 @@
  
  tool used
  ---------
- html
- css
- botstrap
- animation
+ -html
+ -css
+ -botstrap
+ -animation
  
  cool features
  -------------
- full screen background
- sliding navbar functionality
- carousel
+ -full screen background
+ -sliding navbar functionality
+ -carousel
  
  live-demo 
  ---------
