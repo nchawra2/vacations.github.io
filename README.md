@@ -17,5 +17,5 @@
  
  live-demo 
  ---------
- -> https://nchawra1.github.io/vacations.github.io/
+ -> https://nchawra2.github.io/vacations.github.io/
  
